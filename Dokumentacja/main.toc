@@ -1,0 +1,10 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Wprowadzenie}{2}%
+\contentsline {section}{\numberline {2}Opis projektu}{2}%
+\contentsline {subsection}{\numberline {2.1}Potencjalne grupy użytkowników}{2}%
+\contentsline {subsection}{\numberline {2.2}Wymagania funkcjonalne}{3}%
+\contentsline {subsection}{\numberline {2.3}Wymagania niefunkcjonalne}{3}%
+\contentsline {subsection}{\numberline {2.4}Diagram związków encji}{3}%
+\contentsline {section}{\numberline {3}Przykłady realizacji bazy danych}{8}%
+\contentsline {subsection}{\numberline {3.1}Przykłady zawartości najważniejszych tabel}{8}%
+\contentsline {subsection}{\numberline {3.2}Przykłady kilku zapytań i ich wyników}{10}%
